@@ -1,3 +1,11 @@
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+</div>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/adtypthk/Home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
