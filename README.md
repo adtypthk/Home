@@ -1,9 +1,9 @@
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
-</div>
+<nav>
+            <a href="https://adtypthk.github.io/Home/">Home</a> 
+           <a href="https://adtypthk.github.io/Experiments/">Experiments</a> 
+           <a href="https://adtypthk.github.io/Ideas">Ideas</a> 
+           
+ </nav>
 
 
 ## Welcome to GitHub Pages
